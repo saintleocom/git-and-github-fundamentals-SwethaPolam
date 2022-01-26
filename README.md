@@ -11,11 +11,11 @@
    My Hobbies:
 
    # :headphones:I enjoys listening to music.
-   # :phone:I surf net when I get bored.
+   # :iphone:I surf net when I get bored.
    Shows intrest in making handy crafts.
-   # :tree:Likes planting trees.
+   # :palm_tree:Likes planting trees.
 
-   # :like:Likes: Intrested in spending more time using GIT(version control) and operating the various advantages of using GIT vs other tools.
+   # :+1:Likes: Intrested in spending more time using GIT(version control) and operating the various advantages of using GIT vs other tools.
    
-   # :dislike:Acquiring New Knowledge: Not a dislike but waiting to see how I get acquaint using this new approach of various new tools during this course. 
+   # :-1:Acquiring New Knowledge: Not a dislike but waiting to see how I get acquaint using this new approach of various new tools during this course. 
 
