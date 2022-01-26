@@ -15,8 +15,7 @@
    Shows intrest in making handy crafts.
    # :tree:Likes planting trees.
 
-   # :like:Likes & :dislike:Dislikes:
-
-   Intrested in spending more time using GIT(version control) and operating the various advantages of using GIT vs other tools.
-   Not a dislike but waiting to see how I get acquaint using this new approach of various new tools during this course. 
+   # :like:Likes: Intrested in spending more time using GIT(version control) and operating the various advantages of using GIT vs other tools.
+   
+   # :dislike:Acquiring New Knowledge: Not a dislike but waiting to see how I get acquaint using this new approach of various new tools during this course. 
 
