@@ -5,12 +5,18 @@
 
 
   This is Swetha, I am from Vizag. 
-  # :phone:I am currently working on GIT and GIThub.
+  # :computer:I am currently working on GIT and GIThub.
   I am intresting in learning new things and plan, perseverance to be successfull in my path.
 
    My Hobbies:
 
    # :headphones:I enjoys listening to music.
-   # :computer:I surf net when I get bored.
+   # :phone:I surf net when I get bored.
    Shows intrest in making handy crafts.
-   # :leaf:Likes planting trees.
+   # :tree:Likes planting trees.
+
+   # :like:Likes & :dislike:Dislikes:
+
+   Intrested in spending more time using GIT(version control) and operating the various advantages of using GIT vs other tools.
+   Not a dislike but waiting to see how I get acquaint using this new approach of various new tools during this course. 
+
